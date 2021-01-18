@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235003374981",
+    "project_id": "notification-watcher",
+    "storage_bucket": "notification-watcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235003374981:android:8beffbb07a23956c4828ec",
+        "android_client_info": {
+          "package_name": "com.notification_watcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235003374981-hs1k3vpsc1h73e1jkggotnuenispcb18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJoXqNuXk81h3ZXfPgmBcx14yr2MKkPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235003374981-hs1k3vpsc1h73e1jkggotnuenispcb18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
